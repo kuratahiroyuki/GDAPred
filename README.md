@@ -52,6 +52,6 @@ https://github.com/lsbnb/amp_gan
 https://www.uniprot.org/help/downloads?utm_source=chatgpt.com  
 
 # History
-
+From GDAPred2 in CERVO
 
 
